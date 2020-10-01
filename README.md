@@ -8,6 +8,7 @@ I will explain a little about my tasks.
 
 ## Part 1
 I started this part by getting the relevant information from a relevant API and exploring it.
+
 I created different routes that get the wanted country from the query and run the main function which analyzes the data.
 
 ## Part 2
