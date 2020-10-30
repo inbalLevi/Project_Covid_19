@@ -1,11 +1,5 @@
 # project_covid_19
 
-Hello Fyber Devops Team!
-
-I really enjoyed doing this project, as it gave me the opportunity to get familiar with unknown fields like Flask and Jenkins.
-
-I will explain a little about my tasks.
-
 ## Part 1
 I started this part by getting the relevant information from a relevant API and exploring it.
 
@@ -21,4 +15,3 @@ Inspite of those difficulties, I did write a jenkins file which I belive is good
 *important to mention that in the final stage in the pipeline, the script I wrote will only support a single country input, as I didn't manage to find a solution to a list input.
 
 
-I am truly thankful for the opportunity and hope you will appreciate my work :)
